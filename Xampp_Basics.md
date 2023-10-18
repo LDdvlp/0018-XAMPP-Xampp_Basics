@@ -2,7 +2,22 @@
 |:---:|:---:|---:|:---|
 |***0018***|*Loïc Drouet*|_Jeudi 06 juillet 2023_|_Mercredi 18 octobre 2023_|
 
+
 # XAMPP Basics
+
+
+<!-- @import "[TOC]" {cmd="toc" depthFrom=1 depthTo=6 orderedList=false} -->
+
+<!-- code_chunk_output -->
+
+- [XAMPP Basics](#xampp-basics)
+  - [1. Think to back up `php.ini`](#1-think-to-back-up-phpini)
+  - [2. How to move the document root (`htdocs`) ?](#2-how-to-move-the-document-root-htdocs-)
+  - [3. How to move the databases (`datadir`) ?](#3-how-to-move-the-databases-datadir-)
+
+<!-- /code_chunk_output -->
+
+
 
 ## 1. Think to back up `php.ini`
 
